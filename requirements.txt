@@ -20,8 +20,6 @@ entrypoints==0.3
 enum34==1.1.10
 et-xmlfile==1.0.1
 filelock==3.0.12
-functools32==3.2.3.post2
-futures==3.3.0
 google-api-core==1.21.0
 google-api-python-client==1.9.3
 google-auth==1.18.0
@@ -60,7 +58,6 @@ oauthlib==3.1.0
 odict==1.7.0
 openpyxl==2.6.4
 packaging==20.4
-pandas==0.24.2
 pandocfilters==1.4.2
 pathlib2==2.3.5
 pickleshare==0.7.5
@@ -72,13 +69,12 @@ protobuf==3.12.2
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
 Pygments==2.5.2
-pylint==1.9.5
+pylint==1.9.4
 pyparsing==2.4.7
 pyrsistent==0.16.0
 python-dateutil==2.8.1
 python-http-client==3.2.7
 pytz==2020.1
-pywin32==228
 pywinpty==0.5.7
 pyzmq==19.0.1
 requests==2.24.0
