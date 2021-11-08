@@ -88,7 +88,7 @@ simplegeneric==0.8.1
 singledispatch==3.4.0.3
 six==1.15.0
 soupsieve==1.9.6
-starkbank-ecdsa==1.0.0
+starkbank-ecdsa==2.0.1
 terminado==0.8.3
 testpath==0.4.4
 tornado==5.1.1
